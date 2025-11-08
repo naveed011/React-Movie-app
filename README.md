@@ -1,4 +1,6 @@
-This project was bootstrapped with [ React Vite App](https://github.com/facebook/create-react-app).
+### Project Live link
+
+[React-Movix-TMBD-CLONE](https://react-movie-app-zeta-six.vercel.app/)
 
 ### Project setup
 
@@ -109,10 +111,6 @@ npm run deploy
 ![profile page](./public/profile.png) -->
 
 ---
-
-### Project Live link
-
-[React-Movix-TMBD-CLONE](https://react-movie-app-zeta-six.vercel.app/)
 
 ### Contact
 
